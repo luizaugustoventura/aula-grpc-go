@@ -1,6 +1,6 @@
-<h1 align="center">📨Aula básica de gRPC📩</h1>
+<h1 align="center">📜Aula básica de gRPC🌐</h1>
 
-<h3 align="center">✉️Aprendendo o básico de comunicação gRPC com Golang✉️</h3>
+<h3 align="center">🚋Aprendendo o básico de comunicação gRPC com Golang🚋</h3>
 
 <p>
     Projeto criado com base na <a href="https://www.youtube.com/watch?v=9RvushutRPw" style="text-decoration: none;">live</a> live sobre gRPC do esquenta da maratona FullStack FullCycle 3.0, idealizada pelo 
