@@ -15,7 +15,7 @@
     <li>Go</li>
 </ul>
 
-<h4>🛠Principais comandos: 🛠</h4>
+<h4>🕹️Principais comandos: 🕹️</h4>
 <ul>
     <li>protoc --proto_path=grpc grpc/protofile/*.proto --go_out=.</li>
     <li>protoc --proto_path=grpc grpc/protofile/*.proto --go_out=. --go-grpc_out=.</li>
